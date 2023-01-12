@@ -9,7 +9,7 @@
 + Criar listas verticais e horizontais.
 + Consumir dados da Web com a Api.
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 <table>
 <tr>
 
