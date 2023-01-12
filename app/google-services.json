@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64831595428",
+    "project_id": "app-de-filmes-164bd",
+    "storage_bucket": "app-de-filmes-164bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64831595428:android:058fbb3e2e0be01f759731",
+        "android_client_info": {
+          "package_name": "com.welder.appdefilmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64831595428-5f2hq84tehtstbpja0pfjto4ivuqdq87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC04TqnjKy5GIZP2xi4ktOcDPFxqCR7fkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64831595428-5f2hq84tehtstbpja0pfjto4ivuqdq87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
