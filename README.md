@@ -1,6 +1,13 @@
 # Netflix-Clone-personalisado
 
+### Criado no curso Android Master
+
 > Status: Em andamento ⚠️ 
+
+## Objetivo do Projeto
++ Fazer a autenticação e cadastro de usuário com Firebase.
++ Criar listas verticais e horizontais.
++ Consumir dados da Web com a Api.
 
 ## Tecnologias utilizadas
 <table>
@@ -14,12 +21,12 @@
 </tr>
 <tr>
 
-<td>1.0</td>
-<td>1.0</td>
-<td>1.0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 
 
 </tr>
 </table>
 
-![fefsdfs drawio](https://user-images.githubusercontent.com/82728688/212115597-1220a598-ff59-4c65-a540-26ed679f7045.png)
+![fefsdfs drawio (1)](https://user-images.githubusercontent.com/82728688/212166973-e164d07b-a8d0-4e3b-aea8-031bccdef480.png)
